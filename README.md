@@ -4,7 +4,7 @@
 
 ![Myung Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpark-k&show_icons=true&theme=chartreuse-dark)
 
-# 💪 Skills
+## 💪 Skills
 
 ### 📝 Language
 
@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-# 📬 Contacts
+## 📬 Contacts
 
 [![Tech Blog Badge](https://img.shields.io/badge/Velog:mjpark-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@pmj9498/posts)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
